@@ -2,7 +2,7 @@
 
 ## 🚀 Come partecipare
 
-1. Forka questa repository  
+1. Fai il fork di questa repository  
 2. Completa la challenge  
 3. Invia il link della tua repository  
 
@@ -17,8 +17,8 @@ Questa challenge è parte della beta di CoreStack, un progetto che vuole rendere
 L’obiettivo è valutare la capacità di lavorare con:
 
 - dati da API  
-- gestione stato  
-- logica frontend  
+- gestione dello stato  
+- logica del frontend  
 - validazione input  
 
 ---
@@ -54,7 +54,7 @@ Crea un form che permetta di inserire:
 - titolo  
 - contenuto  
 
-Alla submit:
+Al submit:
 - puoi simulare la POST (non serve backend reale)  
 - oppure aggiungere l’elemento localmente  
 
