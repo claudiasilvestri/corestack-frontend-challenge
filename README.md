@@ -1,16 +1,20 @@
-# 🧩 CoreStack – Frontend Challenge v1
+# CoreStack – Frontend Challenge v1
+
+👉 Questa challenge è pensata soprattutto per developer junior / early-mid che vogliono capire il proprio livello su task reali.
+
+---
 
 ## 🚀 Come partecipare
 
-1. Fai il fork di questa repository  
-2. Completa la challenge  
-3. Invia il link della tua repository  
+- Fai il fork di questa repository  
+- Completa la challenge  
+- Invia il link della tua repository  
 
 ---
 
 ## 🎯 Obiettivo
 
-Questa challenge è pensata per simulare uno **step tecnico iniziale realistico** per frontend developer.
+Questa challenge è pensata per simulare uno step tecnico iniziale realistico per frontend developer.
 
 Questa challenge è parte della beta di CoreStack, un progetto che vuole rendere la valutazione dei developer più basata sulle competenze reali che sul CV.
 
@@ -22,6 +26,7 @@ L’obiettivo è valutare la capacità di lavorare con:
 - validazione input  
 
 ---
+
 ## 🧠 Valutazione & Feedback
 
 Questa challenge non serve a “passare un test” o a fare tutto perfetto.
@@ -40,11 +45,13 @@ Non è necessario completare tutto perfettamente per ottenere valore.
 
 Anche soluzioni parziali sono utili e verranno comunque valutate.
 
+L’obiettivo non è giudicare, ma aiutarti a capire dove sei e come migliorare.
+
 ---
 
 ## ⚙️ Stack
 
-È consigliato utilizzare **React**.
+È consigliato utilizzare React.
 
 Puoi utilizzare qualsiasi framework o libreria frontend (Angular, Vue, ecc), ma l’utilizzo di React rende la valutazione più semplice e comparabile tra i diversi candidati.
 
@@ -61,6 +68,7 @@ Recupera una lista di post da:
 https://jsonplaceholder.typicode.com/posts
 
 Mostra almeno:
+
 - titolo  
 - contenuto  
 
@@ -74,6 +82,7 @@ Crea un form che permetta di inserire:
 - contenuto  
 
 Al submit:
+
 - puoi simulare la POST (non serve backend reale)  
 - oppure aggiungere l’elemento localmente  
 
@@ -111,14 +120,14 @@ Non è richiesta una UI complessa.
 
 ## ⏱️ Tempo
 
-- Tempo stimato: circa **45 minuti**
-- Non è necessario dedicare più tempo del necessario
+- Tempo stimato: circa 45 minuti  
+- Non è necessario dedicare più tempo del necessario  
 
 ---
 
 ## 📅 Consegna
 
-Puoi completare la challenge entro **48 ore** da quando inizi.
+Puoi completare la challenge entro 48 ore da quando inizi.
 
 ---
 
@@ -131,9 +140,10 @@ Invia:
 
 (Opzionale ma consigliato)
 
-- breve README con:
-  - come avviare il progetto  
-  - eventuali scelte fatte  
+breve README con:
+
+- come avviare il progetto  
+- eventuali scelte fatte  
 
 ---
 
