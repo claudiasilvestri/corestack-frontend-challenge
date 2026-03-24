@@ -2,7 +2,7 @@
 
 ## ⚠️ Aggiornamento
 
-Questa è la versione aggiornata della challenge (**v2**).
+Questa è la versione aggiornata della challenge (v2).
 
 Se hai già iniziato una versione precedente, puoi:
 - continuare con quella
@@ -14,13 +14,23 @@ Entrambe verranno valutate.
 
 ## 🎯 Obiettivo
 
-Questa challenge simula uno step tecnico iniziale per frontend developer.
+Questa challenge è pensata per aiutarti a capire il tuo livello reale come frontend developer.
 
-Non è pensata per “fare tutto perfetto”, ma per capire:
+Non è un test da superare, ma uno strumento per vedere:
 
 - come affronti un problema
 - che decisioni prendi
 - come strutturi una soluzione
+
+---
+
+## 💡 Perché farla
+
+Può aiutarti a:
+
+- capire il tuo livello reale su task frontend  
+- ricevere feedback concreto e utilizzabile  
+- confrontarti con uno scenario simile a un primo step tecnico  
 
 ---
 
@@ -97,15 +107,15 @@ Il form deve gestire:
 
 Implementa **almeno una** tra queste:
 
-- filtro dei post
-- ordinamento
-- gestione di molti elementi (UX/performance)
+- filtro dei post  
+- ordinamento  
+- gestione di molti elementi (UX/performance)  
 
 Scegli tu cosa ha più senso.
 
 ---
 
-## 🧠 Decisioni
+## 🧠 Decisioni (parte importante)
 
 Non esiste una soluzione unica.
 
@@ -130,7 +140,7 @@ Libero: puoi usare qualsiasi framework
 
 Tempo stimato: 45–60 minuti
 
-Non è necessario completare tutto perfettamente o metterci più tempo del necessario. 
+Non è necessario completare tutto perfettamente o metterci più tempo del necessario.
 
 ---
 
@@ -144,8 +154,10 @@ Invia:
 Opzionale ma consigliato:
 
 - breve README con:
-  - come avviare il progetto
-  - eventuali scelte fatte
+  - come avviare il progetto  
+  - eventuali scelte fatte  
+
+👉 Riceverai un feedback strutturato entro poco tempo.
 
 ---
 
@@ -179,9 +191,10 @@ Dopo aver completato la challenge, ti chiederemo un feedback su:
 La versione precedente della challenge era più orientata all’esecuzione.
 
 Questa versione introduce un maggiore focus su:
-- decisioni
-- ambiguità
-- approccio progettuale
+
+- decisioni  
+- ambiguità  
+- approccio progettuale  
 
 Se hai già iniziato la v1, puoi comunque completarla.
 
@@ -199,6 +212,7 @@ Puoi simulare la creazione di nuovi elementi lato frontend.
 Questa challenge è parte della beta di CoreStack.
 
 L’obiettivo è rendere la valutazione tecnica:
+
 - più basata su competenze reali  
 - meno basata sul CV  
 - più utile sia per developer che per aziende  
