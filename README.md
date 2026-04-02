@@ -46,9 +46,11 @@ Sta a te decidere come gestirli.
 
 ## 🚀 Come partecipare
 
-1. Fai il fork della repository  
-2. Completa la challenge  
-3. Invia il link della tua repository  
+1. Clicca su "Fork" in alto a destra della repo
+2. Lavora sulla TUA copia (non clonare direttamente la repo originale)
+3. Completa la challenge
+4. Invia il link della tua repository GitHub
+
 
 ---
 
