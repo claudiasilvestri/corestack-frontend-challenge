@@ -1,12 +1,11 @@
-# CoreStack – Frontend Challenge v2
+# CoreStack – Frontend Challenge
 
 ## ⚠️ Aggiornamento
-
-Questa è la versione aggiornata della challenge (v2).
+Questa è la versione aggiornata della challenge.
 
 Se hai già iniziato una versione precedente, puoi:
-- continuare con quella
-- oppure passare alla versione aggiornata
+- continuare con quella  
+- oppure passare alla versione aggiornata  
 
 Entrambe verranno valutate.
 
@@ -14,63 +13,64 @@ Entrambe verranno valutate.
 
 ## 🎯 Obiettivo
 
-Questa challenge è pensata per aiutarti a capire il tuo livello reale come frontend developer.
+Questa challenge serve per valutare il tuo livello reale come frontend developer.
 
-Non è un test da superare, ma uno strumento per vedere:
+Non è un test da “passare”, ma uno strumento per osservare:
 
-- come affronti un problema
-- che decisioni prendi
-- come strutturi una soluzione
-
----
-
-## 💡 Perché farla
-
-Può aiutarti a:
-
-- capire il tuo livello reale su task frontend  
-- ricevere feedback concreto e utilizzabile  
-- confrontarti con uno scenario simile a un primo step tecnico  
+- come affronti un problema  
+- come prendi decisioni  
+- come strutturi una soluzione  
 
 ---
 
 ## ⚙️ Contesto
 
-Stai costruendo una piccola feature per un prodotto che gestisce contenuti.
+Stai lavorando su una piccola feature di un prodotto che gestisce contenuti.
 
-Hai accesso a una API pubblica, ma alcuni aspetti non sono completamente definiti.
+Hai accesso a una API pubblica, ma:
+- alcuni aspetti non sono completamente definiti  
+- non tutto è specificato nel dettaglio  
 
-Sta a te decidere come gestirli.
+Come in un contesto reale, dovrai gestire ambiguità e prendere decisioni.
+
+---
+
+## 🧠 Approccio richiesto
+
+Non è necessario completare tutto.
+
+È più importante:
+- capire cosa fare  
+- decidere cosa NON fare  
+- motivare le scelte  
+
+Se qualcosa non è chiaro, puoi fare assunzioni: esplicitarle è parte della valutazione.
+
+La capacità di prioritizzare e gestire ambiguità è parte centrale della challenge.
 
 ---
 
 ## 🚀 Come partecipare
 
-1. Clicca su "Fork" in alto a destra della repo
-2. Lavora sulla TUA copia (non clonare direttamente la repo originale)
-3. Completa la challenge
-4. Invia il link della tua repository GitHub
-
+1. Fai fork della repository  
+2. Lavora sulla tua copia  
+3. Completa la challenge  
+4. Invia il link della tua repo GitHub  
 
 ---
 
 ## 🧪 Task
 
-Crea un’applicazione che permetta di lavorare con una lista di post.
+Costruisci una piccola applicazione per lavorare con una lista di post.
 
----
-
-### 1️⃣ Dati da API
-
+### 1. Dati da API
 Recupera i dati da:
-
 https://jsonplaceholder.typicode.com/posts
 
 ---
 
-### 2️⃣ Visualizzazione
-
-Mostra i dati nel modo che ritieni più utile per l’utente.
+### 2. Visualizzazione
+Mostra i dati nel modo che ritieni più utile.
 
 Puoi scegliere liberamente:
 - struttura (lista, card, ecc.)
@@ -79,36 +79,31 @@ Puoi scegliere liberamente:
 
 ---
 
-### 3️⃣ Aggiunta contenuti
-
+### 3. Aggiunta contenuti
 Permetti all’utente di aggiungere un nuovo post tramite un form.
 
 Puoi:
-- simulare la POST
-- oppure gestire i dati localmente
+- simulare la POST  
+- oppure gestire i dati localmente  
 
 ---
 
-### 4️⃣ Gestione stato
-
+### 4. Gestione stato
 Gestisci:
-- loading durante il fetch
-- errori (es. API non disponibile)
+- loading durante il fetch  
+- errori (es. API non disponibile)  
 
 ---
 
-### 5️⃣ Validazione
-
+### 5. Validazione
 Il form deve gestire:
-- input vuoti
-- feedback all’utente
+- input vuoti  
+- feedback all’utente  
 
 ---
 
-### 6️⃣ Comportamento extra (scelta libera)
-
-Implementa **almeno una** tra queste:
-
+### 6. Comportamento extra (facoltativo)
+Implementa almeno una tra queste:
 - filtro dei post  
 - ordinamento  
 - gestione di molti elementi (UX/performance)  
@@ -117,54 +112,54 @@ Scegli tu cosa ha più senso.
 
 ---
 
-## 🧠 Decisioni (parte importante)
+## 🧠 Prima di iniziare (importante)
 
-Non esiste una soluzione unica.
+Scrivi brevemente (3–5 righe):
 
-Nel README (breve), spiega:
+- cosa faresti per primo  
+- cosa ritieni più importante  
+- eventuali dubbi o ambiguità  
 
-- come hai gestito lo stato  
-- come hai strutturato i componenti  
-- eventuali scelte o compromessi  
+Non serve essere esaustivi: ci interessa il tuo processo di ragionamento.
 
-👉 massimo 5–10 righe
+---
+
+## 🧠 README finale
+
+Nel README (breve), spiega in modo sintetico:
+
+- cosa hai deciso di fare e perché  
+- cosa NON hai fatto e perché  
+- eventuali compromessi  
+- cosa miglioreresti con più tempo  
+
+Non è richiesta una documentazione lunga: poche righe chiare sono sufficienti.
 
 ---
 
 ## ⚙️ Stack
 
-Consigliato: React  
-Libero: puoi usare qualsiasi framework
+React è suggerito.
 
-Puoi anche completare la challenge con HTML, CSS e JavaScript vanilla.
+Puoi comunque utilizzare qualsiasi tecnologia frontend con cui ti senti a tuo agio.
 
-L’obiettivo non è il framework, ma il modo in cui affronti il problema.
-Puoi scegliere il setup più semplice per te.
+La valutazione non si basa sulla tecnologia scelta, ma su come affronti il problema e sulle decisioni che prendi.
 
 ---
 
 ## ⏱️ Tempo
 
-Tempo stimato: 45–60 minuti
+Tempo stimato: 45–60 minuti  
 
-Non è necessario completare tutto perfettamente o metterci più tempo del necessario.
+Non è necessario completare tutto perfettamente.
 
 ---
 
 ## 📦 Output
 
 Invia:
-
 - link alla repository GitHub  
 - codice funzionante  
-
-Opzionale ma consigliato:
-
-- breve README con:
-  - come avviare il progetto  
-  - eventuali scelte fatte  
-
-👉 Riceverai un feedback strutturato entro poco tempo.
 
 ---
 
@@ -179,38 +174,16 @@ Riceverai un feedback strutturato su:
 - UX  
 - capacità decisionale  
 
-L’obiettivo non è giudicare, ma aiutarti a capire dove sei e come migliorare.
+La valutazione tiene conto sia dell’esecuzione tecnica che del modo in cui prendi decisioni.
 
 ---
 
 ## 💬 Feedback
 
-Dopo aver completato la challenge, ti chiederemo un feedback su:
-
+Dopo la challenge potrai lasciare un feedback su:
 - difficoltà  
 - chiarezza  
 - realismo rispetto a un colloquio frontend  
-
----
-
-## 📦 Versione precedente (v1)
-
-La versione precedente della challenge era più orientata all’esecuzione.
-
-Questa versione introduce un maggiore focus su:
-
-- decisioni  
-- ambiguità  
-- approccio progettuale  
-
-Se hai già iniziato la v1, puoi comunque completarla.
-
----
-
-## ℹ️ Note
-
-Non è necessario implementare un backend reale.  
-Puoi simulare la creazione di nuovi elementi lato frontend.
 
 ---
 
@@ -220,6 +193,6 @@ Questa challenge è parte della beta di CoreStack.
 
 L’obiettivo è rendere la valutazione tecnica:
 
-- più basata su competenze reali  
+- più aderente al lavoro reale  
 - meno basata sul CV  
 - più utile sia per developer che per aziende  
