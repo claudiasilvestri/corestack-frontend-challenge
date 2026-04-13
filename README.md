@@ -63,6 +63,18 @@ La capacità di prioritizzare e gestire ambiguità è parte centrale della chall
 
 Costruisci una piccola applicazione per lavorare con una lista di post.
 
+📌 Nota importante
+
+Non conta solo che le funzionalità siano presenti.
+
+Verrà valutato anche come vengono integrate nell’esperienza complessiva dell’applicazione, considerando:
+
+- chiarezza del flusso
+- usabilità delle interazioni
+- coerenza dell’esperienza finale
+
+Una soluzione tecnicamente funzionante ma poco rifinita lato UX sarà quindi valutata di conseguenza. 
+
 ### 1. Dati da API
 Recupera i dati da:
 https://jsonplaceholder.typicode.com/posts
