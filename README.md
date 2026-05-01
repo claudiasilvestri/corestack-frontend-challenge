@@ -23,6 +23,8 @@ come affronti un problema
 come prendi decisioni
 come strutturi una soluzione
 
+Non esiste una soluzione giusta: esistono scelte diverse, e ci interessa capire come arrivi alle tue.
+
 A differenza di molte challenge tecniche, non troverai istruzioni passo-passo.
 
 L’obiettivo è osservare come ti muovi in uno scenario reale, dove non tutto è definito.
@@ -248,3 +250,4 @@ L’obiettivo è rendere la valutazione tecnica:
 più aderente al lavoro reale
 meno basata sul CV
 più utile sia per developer che per aziende
+
