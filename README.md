@@ -164,7 +164,7 @@ La valutazione non si basa sulla tecnologia scelta, ma su come affronti il probl
 
 ## ⏱️ Tempo
 
-Tempo stimato per una soluzione base funzionante: **45–60 minuti**.
+Tempo stimato per una soluzione base funzionante: **60-90 minuti**.
 
 È normale dedicare più tempo per rifinire ulteriormente UX, struttura o dettagli implementativi.
 
