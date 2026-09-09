@@ -1,13 +1,4 @@
-# Naxos Frontend Challenge ⚠️ Aggiornamento
-
-Questa è la versione aggiornata della challenge.
-
-Se hai già iniziato una versione precedente, puoi:
-
-- continuare con quella;
-- oppure passare alla versione aggiornata.
-
-Entrambe verranno valutate.
+# Naxos Frontend Challenge
 
 ## 🎯 Obiettivo
 
