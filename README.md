@@ -145,9 +145,21 @@ Non è richiesta una documentazione lunga: poche righe chiare sono sufficienti.
 
 Assicurati inoltre che il progetto possa essere avviato facilmente seguendo le istruzioni presenti nel README.
 
+## ⚙️ Stack
+
+Puoi utilizzare qualsiasi tecnologia frontend con cui ti senti a tuo agio.
+
+Puoi scegliere liberamente:
+
+- linguaggio;
+- framework;
+- librerie.
+
+La valutazione non si basa sulla tecnologia scelta, ma su come affronti il problema e sulle decisioni che prendi.
+
 ## ⏱️ Tempo
 
-Tempo stimato per una soluzione base funzionante: **60-90 minuti**.
+Tempo stimato per una soluzione base funzionante: **60–90 minuti**.
 
 È normale dedicare più tempo per rifinire ulteriormente UX, struttura o dettagli implementativi.
 
